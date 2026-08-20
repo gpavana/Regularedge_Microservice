@@ -1,0 +1,8 @@
+.msg-info {
+  background: var(--color-info-bg, #e6eef1);
+  color: var(--color-info-text, #3d5f6e);
+  padding: 12px;
+  border-radius: 6px;
+  margin-bottom: 16px;
+  border-left: 4px solid var(--color-info, #4f7788);
+}
