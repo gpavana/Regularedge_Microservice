@@ -5,7 +5,7 @@ RegulareEdge is a microservices-based compliance platform designed to digitize r
 
 The platform provides role-based access control, workflow management, document handling, audit traceability, and compliance analytics to support accountability throughout the regulatory reporting lifecycle.
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The application follows a **microservices architecture** with eight independent Spring Boot services. The React frontend communicates with backend services through a centralized API Gateway, while Eureka handles service discovery and Spring Cloud Config provides centralized configuration.
 
