@@ -1,4 +1,4 @@
-# RegulareEdge 🚀
+# RegulareEdge 
 ### Regulatory Reporting & Compliance Management Platform
 
 RegulareEdge is a microservices-based compliance platform designed to digitize regulatory reporting workflows for regulated institutions such as banks and financial firms. It streamlines the preparation, certification, review, and submission of regulatory returns while replacing fragmented email communication and spreadsheets with a centralized, deadline-driven system.
